@@ -1,0 +1,7 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_Gorbachev"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Gorbachev.dds"
+	}
+}

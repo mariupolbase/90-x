@@ -1,0 +1,612 @@
+﻿add_namespace = soviet
+	
+country_event = {
+	id = soviet.1488
+	title = soviet.1488.t
+	desc = soviet.1488.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1990.03.11
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1488.a
+		add_stability = -0.05
+		add_political_power = -100
+		LIT = { transfer_state = 784 }
+		LIT = { transfer_state = 11 }
+		LIT = { transfer_state = 815 }
+		LIT = { transfer_state = 814 }
+		LIT = { transfer_state = 189 }
+		LIT = { transfer_state = 188 }
+	}
+	option = {
+		name = soviet.1488.b
+		add_stability = -0.05
+		add_political_power = -100
+		LIT = { transfer_state = 784 }
+		LIT = { transfer_state = 11 }
+		LIT = { transfer_state = 815 }
+		LIT = { transfer_state = 814 }
+		LIT = { transfer_state = 189 }
+		LIT = { transfer_state = 188 }
+		LIT = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1489
+	title = soviet.1489.t
+	desc = soviet.1489.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1990.05.04
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1489.a
+		add_stability = -0.05
+		add_political_power = -100
+		LAT = { transfer_state = 810 }
+		LAT = { transfer_state = 12 }
+		LAT = { transfer_state = 808 }
+		LAT = { transfer_state = 809 }
+		LAT = { transfer_state = 190 }
+	}
+	option = {
+		name = soviet.1489.b
+		add_stability = -0.05
+		add_political_power = -100
+		LAT = { transfer_state = 810 }
+		LAT = { transfer_state = 12 }
+		LAT = { transfer_state = 808 }
+		LAT = { transfer_state = 809 }
+		LAT = { transfer_state = 190 }
+		LAT = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1490
+	title = soviet.1490.t
+	desc = soviet.1490.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1990.05.08
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1490.a
+		add_stability = -0.05
+		add_political_power = -100	
+		EST = { transfer_state = 13 }
+		EST = { transfer_state = 813 }
+		EST = { transfer_state = 191 }
+		EST = { transfer_state = 812 }
+		EST = { transfer_state = 811 }
+	}
+	option = {
+		name = soviet.1490.b
+		add_stability = -0.05
+		add_political_power = -100	
+		EST = { transfer_state = 13 }
+		EST = { transfer_state = 813 }
+		EST = { transfer_state = 191 }
+		EST = { transfer_state = 812 }
+		EST = { transfer_state = 811 }
+		EST = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1491
+	title = soviet.1491.t
+	desc = soviet.1491.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1990.08.23
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1491.a
+		add_stability = -0.05
+		add_political_power = -100	
+		ARM = { transfer_state = 230 }
+	}
+	option = {
+		name = soviet.1491.b
+		add_stability = -0.05
+		add_political_power = -100	
+		ARM = { transfer_state = 230 }
+		ARM = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1492
+	title = soviet.1492.t
+	desc = soviet.1492.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.04.09
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1492.a
+		add_stability = -0.05
+		add_political_power = -100	
+		GEO = { transfer_state = 231 }
+		GEO = { transfer_state = 826 }
+	}
+	option = {
+		name = soviet.1492.b
+		add_stability = -0.05
+		add_political_power = -100	
+		GEO = { transfer_state = 231 }
+		GEO = { transfer_state = 826 }
+		GEO = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1493
+	title = soviet.1493.t
+	desc = soviet.1493.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.06.08
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1493.a
+		add_stability = -0.08
+		add_political_power = -50	
+		CIN = { transfer_state = 821 }
+	}
+	option = {
+		name = soviet.1493.b
+		add_stability = -0.08
+		add_political_power = -50	
+		CIN = { transfer_state = 821 }
+		CIN = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1494
+	title = soviet.1494.t
+	desc = soviet.1494.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.08.24
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1494.a
+		add_stability = -0.05
+		add_political_power = -100	
+		UKR = { transfer_state = 201 }
+		UKR = { transfer_state = 199 }
+		UKR = { transfer_state = 198 }
+		UKR = { transfer_state = 202 }
+		UKR = { transfer_state = 203 }
+		UKR = { transfer_state = 834 }
+		UKR = { transfer_state = 192 }
+		UKR = { transfer_state = 197 }
+		UKR = { transfer_state = 196 }
+		UKR = { transfer_state = 226 }
+		UKR = { transfer_state = 259 }
+		UKR = { transfer_state = 193 }
+		UKR = { transfer_state = 225 }
+		UKR = { transfer_state = 259 }
+		UKR = { transfer_state = 221 }
+		UKR = { transfer_state = 228 }
+		UKR = { transfer_state = 227 }
+		UKR = { transfer_state = 200 }
+		UKR = { transfer_state = 137 }
+		UKR = { transfer_state = 766 }
+		UKR = { transfer_state = 80 }
+		UKR = { transfer_state = 89 }
+		UKR = { transfer_state = 91 }
+		UKR = { transfer_state = 93 }
+		UKR = { transfer_state = 73 }
+	}
+	option = {
+		name = soviet.1494.b
+		add_stability = -0.05
+		add_political_power = -100	
+		UKR = { transfer_state = 201 }
+		UKR = { transfer_state = 199 }
+		UKR = { transfer_state = 198 }
+		UKR = { transfer_state = 202 }
+		UKR = { transfer_state = 203 }
+		UKR = { transfer_state = 834 }
+		UKR = { transfer_state = 192 }
+		UKR = { transfer_state = 197 }
+		UKR = { transfer_state = 196 }
+		UKR = { transfer_state = 226 }
+		UKR = { transfer_state = 259 }
+		UKR = { transfer_state = 193 }
+		UKR = { transfer_state = 225 }
+		UKR = { transfer_state = 259 }
+		UKR = { transfer_state = 221 }
+		UKR = { transfer_state = 228 }
+		UKR = { transfer_state = 227 }
+		UKR = { transfer_state = 200 }
+		UKR = { transfer_state = 137 }
+		UKR = { transfer_state = 766 }
+		UKR = { transfer_state = 80 }
+		UKR = { transfer_state = 89 }
+		UKR = { transfer_state = 91 }
+		UKR = { transfer_state = 93 }
+		UKR = { transfer_state = 73 }
+		UKR = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1495
+	title = soviet.1495.t
+	desc = soviet.1495.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.08.25
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1495.a
+		add_stability = -0.05
+		add_political_power = -100	
+		BLR = { transfer_state = 206 }
+		BLR = { transfer_state = 204 }
+		BLR = { transfer_state = 194 }
+		BLR = { transfer_state = 241 }
+		BLR = { transfer_state = 207 }
+		BLR = { transfer_state = 94 }
+		BLR = { transfer_state = 95 }
+		BLR = { transfer_state = 96 }
+	}
+	option = {
+		name = soviet.1495.b
+		add_stability = -0.05
+		add_political_power = -100	
+		BLR = { transfer_state = 206 }
+		BLR = { transfer_state = 204 }
+		BLR = { transfer_state = 194 }
+		BLR = { transfer_state = 241 }
+		BLR = { transfer_state = 207 }
+		BLR = { transfer_state = 94 }
+		BLR = { transfer_state = 95 }
+		BLR = { transfer_state = 96 }
+		BLR = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1496
+	title = soviet.1496.t
+	desc = soviet.1496.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.08.27
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1496.a
+		add_stability = -0.05
+		add_political_power = -100	
+		MOL = { transfer_state = 78 }
+	}
+	option = {
+		name = soviet.1496.b
+		add_stability = -0.05
+		add_political_power = -100	
+		MOL = { transfer_state = 78 }
+		MOL = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1497
+	title = soviet.1497.t
+	desc = soviet.1497.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.08.30
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1497.a
+		add_stability = -0.05
+		add_political_power = -100	
+		AZR = { transfer_state = 229 }
+	}
+	option = {
+		name = soviet.1497.b
+		add_stability = -0.05
+		add_political_power = -100	
+		AZR = { transfer_state = 229 }
+		AZR = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1498
+	title = soviet.1498.t
+	desc = soviet.1498.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.08.31
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1498.a
+		add_stability = -0.05
+		add_political_power = -100	
+		UZB = { transfer_state = 405 }
+		UZB = { transfer_state = 830 }
+		UZB = { transfer_state = 585 }
+		UZB = { transfer_state = 823 }
+		UZB = { transfer_state = 831 }
+	}
+	option = {
+		name = soviet.1498.b
+		add_stability = -0.05
+		add_political_power = -100	
+		UZB = { transfer_state = 405 }
+		UZB = { transfer_state = 830 }
+		UZB = { transfer_state = 585 }
+		UZB = { transfer_state = 823 }
+		UZB = { transfer_state = 831 }
+		UZB = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1499
+	title = soviet.1499.t
+	desc = soviet.1499.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.08.31
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1499.a
+		add_stability = -0.05
+		add_political_power = -100	
+		KYR = { transfer_state = 732 }
+	}
+	option = {
+		name = soviet.1499.b
+		add_stability = -0.05
+		add_political_power = -100	
+		KYR = { transfer_state = 732 }
+		KYR = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1500
+	title = soviet.1500.t
+	desc = soviet.1500.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.09.09
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1500.a
+		add_stability = -0.05
+		add_political_power = -100	
+		TAJ = { transfer_state = 742 }
+	}
+	option = {
+		name = soviet.1500.b
+		add_stability = -0.05
+		add_political_power = -100	
+		TAJ = { transfer_state = 742 }
+		TAJ = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1501
+	title = soviet.1501.t
+	desc = soviet.1501.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.10.27
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1501.a
+		add_stability = -0.05
+		add_political_power = -100	
+		TMS = { transfer_state = 584 }
+		TMS = { transfer_state = 832 }
+	}
+	option = {
+		name = soviet.1501.b
+		add_stability = -0.05
+		add_political_power = -100	
+		TMS = { transfer_state = 584 }
+		TMS = { transfer_state = 832 }
+		TMS = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.1502
+	title = soviet.1502.t
+	desc = soviet.1502.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.12.12
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1502.a
+		add_stability = -0.1
+		add_political_power = -200
+		set_country_leader_ideology = liberalism	
+	}
+}
+
+country_event = {
+	id = soviet.1503
+	title = soviet.1503.t
+	desc = soviet.1503.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.12.16
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.1503.a
+		add_stability = -0.05
+		add_political_power = -100	
+		KAZ = { transfer_state = 407 }
+		KAZ = { transfer_state = 406 }
+		KAZ = { transfer_state = 587 }
+		KAZ = { transfer_state = 402 }
+		KAZ = { transfer_state = 583 } 
+		KAZ = { transfer_state = 590 }
+		KAZ = { transfer_state = 881 }
+		KAZ = { transfer_state = 404 }
+		KAZ = { transfer_state = 586 }
+		KAZ = { transfer_state = 589 }
+		KAZ = { transfer_state = 588 }
+		KAZ = { transfer_state = 882 }
+	}
+	option = {
+		name = soviet.1503.b
+		add_stability = -0.05
+		add_political_power = -100	
+		KAZ = { transfer_state = 407 }
+		KAZ = { transfer_state = 406 }
+		KAZ = { transfer_state = 587 }
+		KAZ = { transfer_state = 402 }
+		KAZ = { transfer_state = 583 } 
+		KAZ = { transfer_state = 590 }
+		KAZ = { transfer_state = 881 }
+		KAZ = { transfer_state = 404 }
+		KAZ = { transfer_state = 586 }
+		KAZ = { transfer_state = 589 }
+		KAZ = { transfer_state = 588 }
+		KAZ = { transfer_state = 882 }
+		KAZ = { change_tag_from = SOV }
+	}
+}

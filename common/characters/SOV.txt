@@ -1,0 +1,16 @@
+Characters = {
+	SOV_Gorbachev = {
+		name = SOV_Gorbachev
+		portraits = {
+			civilian = {
+				large = GFX_Gorbachev
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			expire = "2022.1.1.1"
+			id = -1
+			traits = { tenacious_negotiator }
+		}
+	}
+}
