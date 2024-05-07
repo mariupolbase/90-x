@@ -1,0 +1,33 @@
+add_namespace = news
+
+news_event = {
+	id = news.1
+	title = news.1.t
+	desc = news.1.d
+	picture = GFX_news_event_075
+
+	major = yes
+
+	trigger = {
+		date > 1991.12.27
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = news.1.a
+		trigger = {
+		NOT = {
+		tag = USA
+		}
+		}
+	}
+	option = {
+		name = news.1.b
+		trigger = {
+		tag = USA
+		}
+	}
+}

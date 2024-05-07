@@ -4,4 +4,8 @@ spriteTypes = {
 		name = "GFX_Gorbachev"
 		texturefile = "gfx/leaders/SOV/Portrait_SOV_Gorbachev.dds"
 	}
+	spriteType = {
+		name = "GFX_ROM_Ion_Iliesku"
+		texturefile = "gfx/leaders/ROM/Portrait_ROM_Ion_Iliesku.dds"
+	}
 }

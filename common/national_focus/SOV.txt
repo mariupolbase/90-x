@@ -16,7 +16,7 @@ focus_tree = {
 
 	focus = {
 		id = SOV_new_ideas
-		icon = GFX_focus_generic_join_comintern
+		icon = GFX_SOV_Perestroyka
 		cost = 1,00
 		x = 7
 		y = 1
