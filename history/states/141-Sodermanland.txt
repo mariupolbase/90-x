@@ -1,6 +1,6 @@
 
 state = {
-	id = 141
+	id = 14154
 	name = "STATE_141" # Svealand
 	manpower = 1488181
 	state_category = city
