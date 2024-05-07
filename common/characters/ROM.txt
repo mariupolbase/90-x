@@ -1,6 +1,6 @@
 Characters = {
-	Rom_Ion_Iliesku = {
-		name = Ion Iliesku
+	ROM_Ion_Iliesku = {
+		name = Ion_Iliesku
 		portraits = {
 			civilian = {
 				large = GFX_Ion_Iliesku

@@ -811,6 +811,10 @@ spriteTypes = {
 		name = "GFX_report_event_soviet_soldiers"
 		texturefile = "gfx/event_pictures/report_event_soviet_soldiers.dds"
 	}
+	spriteType = {
+		name = "GFX_report_event_SOV_Estonia"
+		texturefile = "gfx/event_pictures/report_event_SOV_Estonia.dds"
+	}
 
 	spriteType = {
 		name = "GFX_report_event_soviet_soldiers_tank"
@@ -835,6 +839,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_report_event_spain_civil_war_soldiers"
 		texturefile = "gfx/event_pictures/report_event_spain_civil_war_soldiers.dds"
+	}
+	spriteType = {
+		name = "GFX_report_event_SOV_Lathua"
+		texturefile = "gfx/event_pictures/report_event_SOV_Lathua.dds"
 	}
 
 	spriteType = {
@@ -2938,6 +2946,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_report_event_SOV_cossack_cavalry"
 		texturefile = "gfx/event_pictures/report_event_SOV_cossack_cavalry.dds"
+	}
+	spriteType = {
+		name = "GFX_report_event_SOV_Lithua"
+		texturefile = "gfx/event_pictures/report_event_SOV_Lithua.dds"
 	}
 	spriteType = {
 		name = "GFX_report_event_SOV_purge_aircraft_2"

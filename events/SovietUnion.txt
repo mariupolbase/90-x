@@ -4,7 +4,7 @@ country_event = {
 	id = soviet.1
 	title = soviet.1.t
 	desc = soviet.1.d
-	picture = GFX_report_event_japanese_transport_soldiers
+	picture = GFX_report_event_SOV_Lithua
 
 	fire_only_once = yes
 
@@ -45,7 +45,7 @@ country_event = {
 	id = soviet.2
 	title = soviet.2.t
 	desc = soviet.2.d
-	picture = GFX_report_event_japanese_transport_soldiers
+	picture = GFX_report_event_SOV_Lathua
 
 	fire_only_once = yes
 
@@ -84,7 +84,7 @@ country_event = {
 	id = soviet.3
 	title = soviet.3.t
 	desc = soviet.3.d
-	picture = GFX_report_event_japanese_transport_soldiers
+	picture = GFX_report_event_SOV_Estonia
 
 	fire_only_once = yes
 
@@ -608,5 +608,33 @@ country_event = {
 		KAZ = { transfer_state = 588 }
 		KAZ = { transfer_state = 882 }
 		KAZ = { change_tag_from = SOV }
+	}
+}
+
+country_event = {
+	id = soviet.16
+	title = soviet.16.t
+	desc = soviet.16.d
+	picture = GFX_report_event_japanese_transport_soldiers
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = SOV
+		date > 1991.05.04
+	}
+
+	mean_time_to_happen = {
+		days = 0
+	}
+	option = {
+		name = soviet.16.a
+		add_stability = 0.1
+		add_political_power = 50
+			add_popularity = {
+				ideology = democratic 
+				popularity = 0.11
+			}
+		}
 	}
 }
