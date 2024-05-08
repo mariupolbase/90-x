@@ -10,7 +10,6 @@ Characters = {
 			ideology = Conservatism
 			expire = "2022.1.1.1"
 			id = -1
-			traits = { tenacious_negotiator }
 		}
 	}
 }

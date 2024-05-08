@@ -15,7 +15,7 @@ spriteTypes = {
 		texturefile = "gfx/leaders/SOV/Portrait_SOV_Bakatin.dds"
 	}
 	spriteType = {
-		name = "GFX_Ion Iliesku"
+		name = "GFX_Ion_Iliesku"
 		texturefile = "gfx/leaders/ROM/Portrait_ROM_Ion_Iliescu.dds"
 	}
 }
