@@ -13,9 +13,9 @@ state={
 		add_core_of = AUS
 		add_claim_by = SWI
 		1938.3.12 = {
-			owner = GER
-			controller = GER
-			add_core_of = GER
+			owner = AUS
+			controller = AUS
+			add_core_of = AUS
 		}
 	}
 	provinces={
