@@ -4,4 +4,14 @@ spriteTypes = {
 		name = "GFX_Gorbachev"
 		texturefile = "gfx/leaders/SOV/Portrait_SOV_Gorbachev.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_Rizhikov"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Rizhikov.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Bakatin"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Bakatin.dds"
+	}
 }
