@@ -20,18 +20,21 @@ set_technology = {
 	mass_assault = 1
 	fleet_in_being = 1
 }
+
+recruit_character = NKR_Kim_Il_Sung
+
 set_politics = {
 	ruling_party = communism
-	last_election = "1966.1.1"
+	last_election = "1953.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 0.5
-	fascism = 0
-	communism = 99.2
-	neutrality = 0.3
+	democratic = 7.5
+	fascism = 2.7
+	communism = 87.5
+	neutrality = 2.3
 }
 
 

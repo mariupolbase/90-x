@@ -1,13 +1,15 @@
 characters = {
-    NKR_Kim_Jong_Il = {
-        name = NKR_Kim_Jong_Il
+    NKR_Kim_Il_Sung = {
+        name = "Kim_Il_Sung"
         portraits = {
             civilian = {
-                large = GFX_NKR_Kim_Jong_Il
+                large = GFX_Kim_Il_Sung
             }
         }
         country_leader = {
-            ideology = socialism
+            ideology = stalinism
+			expire = "1992.1.1.1"
+			id = -1
         }
     }
 }
