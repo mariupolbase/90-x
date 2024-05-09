@@ -1,0 +1,13 @@
+characters = {
+    NKR_Kim_Jong_Il = {
+        name = NKR_Kim_Jong_Il
+        portraits = {
+            civilian = {
+                large = GFX_NKR_Kim_Jong_Il
+            }
+        }
+        country_leader = {
+            ideology = socialism
+        }
+    }
+}

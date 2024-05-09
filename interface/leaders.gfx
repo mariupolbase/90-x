@@ -18,4 +18,8 @@ spriteTypes = {
 		name = "GFX_Ion_Iliesku"
 		texturefile = "gfx/leaders/ROM/Portrait_ROM_Ion_Iliescu.dds"
 	}
+		spriteType = {
+		name = "GFX_Kim_Jong_IL"
+		texturefile = "gfx/leaders/NKR/Portrait_NKR_Kim_Jong_IL.dds"
+	}
 }
