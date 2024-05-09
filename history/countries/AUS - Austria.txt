@@ -55,17 +55,17 @@ recruit_character = AUS_leopold_figl
 
 
 set_politics = {
-	ruling_party = democraticy
-	last_election = "1986.11.23"
-	election_frequency = 48
+	ruling_party = democratic
+	last_election = "1986.5.4"
+	election_frequency = 72
 	elections_allowed = yes
 }
 
 set_popularities = {
-	neutrality = 6
-	fascism = 10
-	democratic = 83
-	communism = 1
+	neutrality = 5.5
+	fascism = 1.2
+	democratic = 93.3
+	communism = 0
 }
 
 set_stability = 0.50

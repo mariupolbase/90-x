@@ -22,4 +22,6 @@ spriteTypes = {
 		name = "GFX_Kim_Il_Sung"
 		texturefile = "gfx/leaders/NKR/Portrait_NKR_Kim_Il_Sung.dds"
 	}
-}
+		spriteType = {
+		name = "GFX_Hosny"
+		texturefile = "gfx/leaders/EGY/Portrait_EGY_Hosny.dds"

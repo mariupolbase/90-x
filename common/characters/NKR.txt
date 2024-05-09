@@ -1,6 +1,6 @@
 characters = {
     NKR_Kim_Il_Sung = {
-        name = "Kim_Il_Sung"
+        name = "NKR_Kim_Il_Sung"
         portraits = {
             civilian = {
                 large = GFX_Kim_Il_Sung

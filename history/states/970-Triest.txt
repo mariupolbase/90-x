@@ -10,8 +10,9 @@ state={
 			6626 5 
 		}
 		add_core_of = ITA
-		add_core_of = SLO
+		add_core_of = SLV
 		add_core_of = YUG
+		add_core_of = LBV
 		buildings = {
 			infrastructure = 4
 			dockyard = 1

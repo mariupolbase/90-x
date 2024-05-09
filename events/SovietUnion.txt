@@ -621,7 +621,7 @@ country_event = {
 
 	trigger = {
 		tag = SOV
-		date > 1991.05.04
+		date > 1990.05.04
 	}
 
 	mean_time_to_happen = {
