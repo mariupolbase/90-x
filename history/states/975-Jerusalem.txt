@@ -1,0 +1,24 @@
+state={
+	id=975
+	name="STATE_975"
+	provinces={
+		1086
+	}
+	history={
+		owner = ISR
+		add_core_of = PAL
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			1086 ={
+				bunker = 3
+			}
+		}
+	}
+	manpower=4821000
+	buildings_max_level_factor=0.000
+	local_supplies=1.000
+	state_category = city
+}
