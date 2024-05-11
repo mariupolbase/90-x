@@ -8,6 +8,7 @@ state={
 		owner = ISR
 		add_core_of = PAL
 		add_core_of = ISR
+		victory_points = { 1086 10 }
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2
