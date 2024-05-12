@@ -109,8 +109,8 @@ set_stability = 0.75
 
 1939.1.1 = {
 
-	add_political_power = 0
-	add_command_power = 0
+	add_political_power = 1197
+	add_command_power = 100
 	
 
 	#BUILDINGS
@@ -168,17 +168,16 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1986.6.8"
+	ruling_party = communism
+	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	democratic = 48
-	fascism = 9
-	communism = 38	
-	neutrality = 5
+	democratic = 30
+	fascism = 10
+	communism = 60
 }
 
 add_ideas = {
@@ -195,6 +194,16 @@ create_country_leader = {
 	}
 }
 
+#create_country_leader = {
+#	name = "Dennis Fredauer"
+#	desc = ""
+#	picture = "Portrait_Germany_Konrad_Adenauer.dds"
+#	expire = "1965.1.1"
+#	ideology = conservatism
+#	traits = {
+#	}
+#}
+#
 create_country_leader = {
 	name = "Wilhelm Pieck"
 	desc = "POLITICS_WILHELM_PIECK_DESC"	 
@@ -207,8 +216,17 @@ create_country_leader = {
 	}
 }
 
-recruit_character = DDR_Manfred
-}
+#create_country_leader = {
+#	name = "Otto Wels"
+#	desc = "POLITICS_OTTO_WELS_DESC"
+#	picture = "Portrait_Germany_Adolf_Hitler.dds"
+#	expire = "1939.1.16"
+#	ideology = socialism
+#	traits = {
+#		exiled
+#		union_man
+#	}
+#}
 #
 #create_country_leader = {
 #	name = "Ernst Thälmann"

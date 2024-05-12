@@ -337,7 +337,7 @@ if = {
 set_convoys = 10
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = democratic
 	last_election = "1985.11.25"
 	election_frequency = 60
 	elections_allowed = yes
@@ -361,7 +361,7 @@ set_popularities = {
 recruit_character = POL_ignacy_moscicki
 recruit_character = POL_wladyslaw_sikorski
 recruit_character = POL_boleslaw_wieniawa_glugoszowski
-recruit_character = POL_Jaruzelski
+recruit_character = POL_wladyslaw_gomulka
 recruit_character = POL_maria_koszutska
 recruit_character = POL_stanislaw_mikolajczyk
 recruit_character = POL_wincenty_witos
