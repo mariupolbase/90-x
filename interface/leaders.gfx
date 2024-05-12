@@ -18,10 +18,28 @@ spriteTypes = {
 		name = "GFX_Ion_Iliesku"
 		texturefile = "gfx/leaders/ROM/Portrait_ROM_Ion_Iliescu.dds"
 	}
-		spriteType = {
+	spriteType = {
 		name = "GFX_Kim_Il_Sung"
 		texturefile = "gfx/leaders/NKR/Portrait_NKR_Kim_Il_Sung.dds"
 	}
-		spriteType = {
+	spriteType = {
 		name = "GFX_Hosny"
 		texturefile = "gfx/leaders/EGY/Portrait_EGY_Hosny.dds"
+	}
+	spriteType = {
+		name = "GFX_Vassiliou"
+		texturefile = "gfx/leaders/CYP/Portrait_CYP_Vassiliou.dds"
+	}
+	spriteType = {
+		name = "GFX_Jaruzelski"
+		texturefile = "gfx/leaders/POL/Portrait_POL_Jaruzelski.dds"
+	}
+	spriteType = {
+		name = "GFX_Manfred"
+		texturefile = "gfx/leaders/DDR/Portrait_DDR_Manfred.dds"
+	}
+	spriteType = {
+		name = "GFX_Weizsacker"
+		texturefile = "gfx/leaders/WGR/Portrait_WGR_Weizsacker.dds"
+	}
+}
