@@ -689,7 +689,7 @@ set_technology = {
 #### VANILLA ####
 ####
 
-capital = 219
+capital = 976
 
 starting_train_buffer = 3.0
 
@@ -835,14 +835,12 @@ set_country_flag = SOV_TEST_REMOVE_VANILLA_ADVISORS_flag
 
 add_ideas = {	
 	home_of_revolution
-
-	SOV_genrikh_yagoda #NKVD Chief (political advisor)
 }
 
 1939.1.1 = {
 
-	add_political_power = 1198
-	add_command_power = 100
+	add_political_power = 0
+	add_command_power = 0
 	set_stability = 0.75
 	set_war_support = 0.55 #Needs at least 0.5 to make sense with War Economy Law
 	
@@ -851,8 +849,8 @@ add_ideas = {
 		stalingrad_tractor_factory
 		SOV_tula_arms_plant
 		#laws
-		war_economy
-		extensive_conscription
+		civilian_economy
+		limited_conscription
 	}
 
 	SOV_remove_paranoia_effect = yes
@@ -1046,44 +1044,6 @@ add_ideas = {
 		}
 	}
 
-	#1936
-	complete_national_focus = SOV_heavy_industry #35
-	unlock_national_focus = SOV_the_path_of_marxism_leninism #35
-	unlock_national_focus = SOV_the_centre #35
-	unlock_national_focus = SOV_the_stalin_constitution # -> Dec 1936
-	unlock_national_focus = SOV_the_zinovyevite_terrorist_center #35 -> Mid 1936
-	complete_national_focus = SOV_infrastructure_effort_nsb #35
-	unlock_national_focus = SOV_strengthen_the_mobilization_plan #35
-	unlock_national_focus = SOV_restore_cossack_units #35 -> 1936/1939	
-	complete_national_focus = SOV_found_the_pcdi #35 -> Dec 1936
-
-	#1937
-	unlock_national_focus = SOV_the_comintern #35
-	unlock_national_focus = SOV_the_anti_soviet_trotskyist_center #35 -> Early 1937
-	unlock_national_focus = SOV_addressing_internal_affairs #35
-	unlock_national_focus = SOV_the_workers_dictatorship
-	unlock_national_focus = SOV_pc_of_mechanical_engineering #35 -> Aug 1937
-	complete_national_focus = SOV_transpolar_flights #35 -> 1937
-	unlock_national_focus = SOV_the_military_conspiracy #35 -> Mid 1937
-	complete_national_focus = SOV_finish_the_five_year_plan # -> Dec 1937
-
-	#1938
-	unlock_national_focus = SOV_socialism_in_one_country #35
-	unlock_national_focus = SOV_third_five_year_plan # -> 1938
-	unlock_national_focus = SOV_the_bloc_of_rights_and_trotskyites #35 -> Early 1938
-	complete_national_focus = SOV_the_threat_from_the_land_of_the_rising_sun #35
-	complete_national_focus = SOV_expand_the_agitprop #35
-	complete_national_focus = SOV_national_specialists #35
-	complete_national_focus = SOV_eastern_development #35
-	complete_national_focus = SOV_expand_the_red_fleet #35
-	complete_national_focus = SOV_pc_of_the_ussr_navy #35
-
-	#1939
-	complete_national_focus = SOV_support_the_kuomintang #35
-	complete_national_focus = SOV_develop_the_urals #35
-	complete_national_focus = SOV_the_ussr_academy_of_sciences
-	complete_national_focus = SOV_baltic_security #35 -> 1939
-
 	#FYP NS
 	add_to_variable = { SOV_fyp_production_factory_efficiency_gain_factor = 0.05 }
 	add_to_variable = { SOV_fyp_consumer_goods_factor = 0.10 }
@@ -1205,9 +1165,9 @@ set_convoys = 50
 
 set_politics = {
 	ruling_party = communism
-	last_election = "1933.7.1"
+	last_election = "1986.3.14"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
 set_popularities = {
 	democratic = 13
@@ -1217,8 +1177,6 @@ set_popularities = {
 
 create_faction = Comintern
 add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
 
 if = {
 	limit = {

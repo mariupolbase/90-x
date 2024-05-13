@@ -34,4 +34,12 @@ spriteTypes = {
 		name = "GFX_Jaruzelski"
 		texturefile = "gfx/leaders/POL/Portrait_POL_Jaruzelski.dds"
 	}
+	spriteType = {
+		name = "GFX_Manfred"
+		texturefile = "gfx/leaders/DDR/Portrait_DDR_Manfred.dds"
+	}
+	spriteType = {
+		name = "GFX_Weizsacker"
+		texturefile = "gfx/leaders/WGR/Portrait_WGR_Weizsacker.dds"
+	}
 }
