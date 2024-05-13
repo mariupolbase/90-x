@@ -262,6 +262,7 @@ RAP = "countries/Rapa Nui.txt"
 YUC = "countries/Yucatan.txt"
 RIG = "countries/Rio Grande.txt"
 QUE = "countries/Quebec.txt"
+WBR = "countries/West Berlin.txt"
 
 # WELSH ARGENTINA
 WLA = "countries/Welsh Argentina.txt"
