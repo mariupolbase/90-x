@@ -3,14 +3,13 @@ Characters = {
 		name = USA_bush
 		portraits = {
 			civilian = {
-				large = GFX_bush
+				large = GFX_Bush
 			}
 		}
 		country_leader = {
-			ideology = сonservatism
+			ideology = conservatism
 			expire = "2022.1.1.1"
-			id = -2
-			traits = { CIA_bush }
+			id = -1
 		}
 	}
 }

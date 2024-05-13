@@ -42,4 +42,8 @@ spriteTypes = {
 		name = "GFX_Weizsacker"
 		texturefile = "gfx/leaders/WGR/Portrait_WGR_Weizsacker.dds"
 	}
+	spriteType = {
+		name = "GFX_Bush"
+		texturefile = "gfx/leaders/USA/Portrait_USA_Bush.dds"
+	}
 }
