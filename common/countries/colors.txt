@@ -936,4 +936,6 @@ NKR = {
 	color = rgb { 161 45 45 }
 	color_ui = rgb { 145 51 51 }
 }
-
+RUS = {
+	color = rgb { 0 0 238 }
+}

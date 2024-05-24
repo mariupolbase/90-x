@@ -46,4 +46,9 @@ spriteTypes = {
 		name = "GFX_Bush"
 		texturefile = "gfx/leaders/USA/Portrait_USA_Bush.dds"
 	}
+	spriteType = {
+		name = "GFX_Yeltsin"
+		texturefile = "gfx/leaders/RUS/Portrait_RUS_Yeltsin.dds"
+	}
 }
+

@@ -8,8 +8,18 @@ spriteTypes = {
 	}	
 	
 	SpriteType = {
+		name = "GFX_SOV_market_socialism"
+		texturefile = "gfx/interface/goals/russia/SOV_market_socialism.dds"
+	}
+
+	SpriteType = {
 	name = "GFX_SOV_Perestroyka"
 	texturefile = "gfx/interface/goals/russia/SOV_Perestroyka.png"
+	}	
+
+	SpriteType = {
+	name = "GFX_SOV_mcdonalds"
+	texturefile = "gfx/interface/goals/russia/SOV_mcdonalds.dds"
 	}	
 
 	SpriteType = {
