@@ -50,5 +50,9 @@ spriteTypes = {
 		name = "GFX_Yeltsin"
 		texturefile = "gfx/leaders/SOV/Portrait_SOV_Yeltsin.dds"
 	}
+	spriteType = {
+		name = "GFX_Letov"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Letov.dds"
+	}
 }
 
