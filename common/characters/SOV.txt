@@ -13,32 +13,15 @@ Characters = {
 			traits = { tenacious_negotiator }
 		}
 	}
-	SOV_Rizhikov = {
-		name = SOV_Rizhikov
+	SOV_Yeltsin = {
+		name = SOV_Yeltsin
 		portraits = {
 			civilian = {
-				large = GFX_Rizhikov
+				large = GFX_Yeltsin
 			}
 		}
 		country_leader = {
-			ideology = marxism
-			expire = "2024.1.1.1"
+			ideology = liberalism
+			expire = "2007.1.1.1"
 			id = -1
-			traits = { economist }
-		}
-	}
-	SOV_Bakatin = {
-		name = SOV_Bakatin
-		portraits = {
-			civilian = {
-				large = GFX_Bakatin
-			}
-		}
-		country_leader = {
-			ideology = marxism
-			expire = "2022.1.1.1"
-			id = -1
-			traits = { head_of_intelligence }
-		}
-	}
 }

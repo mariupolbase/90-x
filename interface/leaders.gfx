@@ -54,5 +54,11 @@ spriteTypes = {
 		name = "GFX_Letov"
 		texturefile = "gfx/leaders/SOV/Portrait_SOV_Letov.dds"
 	}
+	spriteType = {
+		name = "GFX_Szuros"
+		texturefile = "gfx/leaders/HUN/Portrait_HUN_Szuros.dds"
+	}
 }
+
+
 

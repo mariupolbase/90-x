@@ -1,6 +1,5 @@
 GER	= "countries/Germany.txt"
 NKR = "Countries/North Korea.txt"
-RUS= "Countries/Russia.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
 SWE	= "countries/Sweden.txt"
