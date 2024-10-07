@@ -53,9 +53,9 @@ bookmarks = {
 			}
 			
 		}
-		GER = {
+		WGR = {
 			history = GER_BLITZKRIEG_DESC
-			ideology = fascism
+			ideology = democratic
 			ideas = {
 				sour_loser
 				general_staff
