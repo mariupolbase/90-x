@@ -17,7 +17,7 @@ focus_tree = {
 	focus = {
 		id = SOV_new_ideas
 		icon = GFX_SOV_Perestroyka
-		cost = 20,00
+		cost = 20.00
 		x = 8
 		y = 1
 		available = {
@@ -35,7 +35,7 @@ focus_tree = {
 	focus = {
 		id = SOV_Pyatiletka
 		icon = GFX_goal_generic_construct_civ_factory
-		cost = 50,00
+		cost = 50.00
 		x = 2
 		y = 1
 		completion_reward = {
@@ -76,7 +76,7 @@ focus_tree = {
 	focus = {
 		id = SOV_dont_worry
 		icon = GFX_focus_hol_the_fourth_ally
-		cost = 15,00
+		cost = 15.00
 		x = 16
 		y = 1
 		available = {
@@ -91,7 +91,7 @@ focus_tree = {
 	focus = {
 		id = SOV_work_for_future
 		icon = GFX_goal_generic_production
-		cost = 60,00
+		cost = 60.00
 		prerequisite = {
 			focus =  SOV_Pyatiletka
 		}
@@ -106,7 +106,7 @@ focus_tree = {
 	focus = {
 		id = SOV_help_agrar
 		icon = GFX_focus_generic_agricultural_subsidies
-		cost = 70,00
+		cost = 70.00
 		prerequisite = {
 			focus = SOV_work_for_future
 		}
@@ -123,7 +123,7 @@ focus_tree = {
 	focus = {
 		id = SOV_plan
 		icon = GFX_SOV_market_socialism
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = SOV_work_for_future
 		}
@@ -143,7 +143,7 @@ focus_tree = {
 	focus = {
 		id = SOV_Mcdonalds
 		icon = GFX_SOV_mcdonalds
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = SOV_dont_worry
 		}
@@ -154,7 +154,7 @@ focus_tree = {
 	focus = {
 		id = SOV_podyom
 		icon = GFX_focus_attack_britain
-		cost = 100,00
+		cost = 100.00
 		prerequisite = {
 			focus = SOV_stabil
 		}
@@ -168,7 +168,7 @@ focus_tree = {
 	focus = {
 		id = SOV_stabil
 		icon = GFX_focus_chi_mission_to_germany
-		cost = 150,00
+		cost = 150.00
 		prerequisite = {
 			focus = SOV_stseni
 		}
@@ -182,7 +182,7 @@ focus_tree = {
 	focus = {
 		id = SOV_sellandbuy
 		icon = GFX_focus_chi_cooperation_with_the_nationalists
-		cost = 30,00
+		cost = 30.00
 		prerequisite = {
 			focus = SOV_dont_worry
 		}
@@ -193,7 +193,7 @@ focus_tree = {
 	focus = {
 		id = SOV_privatisatsia_yav
 		icon = GFX_focus_chi_british_cooperation
-		cost = 100,00
+		cost = 100.00
 		prerequisite = {
 			focus = SOV_500_days
 		}
@@ -207,7 +207,7 @@ focus_tree = {
 	focus = {
 		id = SOV_stseni
 		icon = GFX_goal_anti_comintern_pact
-		cost = 150,00
+		cost = 150.00
 		prerequisite = {
 			focus = SOV_privatisatsia_yav
 		}
@@ -221,7 +221,7 @@ focus_tree = {
 	focus = {
 		id = SOV_polomnik
 		icon = GFX_focus_generic_befriend_saudi_arabia
-		cost = 30,00
+		cost = 30.00
 		prerequisite = {
 			focus = SOV_sellandbuy
 		}
@@ -232,7 +232,7 @@ focus_tree = {
 	focus = {
 		id = SOV_rinok
 		icon = GFX_goal_generic_construct_civ_factory
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = SOV_work_for_future
 		}
@@ -252,7 +252,7 @@ focus_tree = {
 	focus = {
 		id = SOV_gaydar_ili_yavlinsiy
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 20,00
+		cost = 20.00
 		prerequisite = {
 			focus = SOV_rinok
 		}
@@ -269,7 +269,7 @@ focus_tree = {
 	focus = {
 		id = SOV_500_days
 		icon = GFX_goal_anti_comintern_pact
-		cost = 0,00
+		cost = 0.00
 		prerequisite = {
 			focus = SOV_gaydar_ili_yavlinsiy
 		}
@@ -289,7 +289,7 @@ focus_tree = {
 	focus = {
 		id = SOV_gaydar_reform
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 0,00
+		cost = 0.00
 		prerequisite = {
 			focus = SOV_gaydar_ili_yavlinsiy
 		}
@@ -308,7 +308,7 @@ focus_tree = {
 	focus = {
 		id = SOV_social_reform
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 70,00
+		cost = 70.00
 		prerequisite = {
 			focus = SOV_gorbachev
 		}
@@ -327,7 +327,7 @@ focus_tree = {
 	focus = {
 		id = SOV_gorbachev
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 0,00
+		cost = 0.00
 		prerequisite = {
 			focus = SOV_new_ideas
 		}
@@ -346,7 +346,7 @@ focus_tree = {
 	focus = {
 		id = SOV_rizhikov
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 0,00
+		cost = 0.00
 		prerequisite = {
 			focus = SOV_new_ideas
 		}
@@ -364,7 +364,7 @@ focus_tree = {
 	focus = {
 		id = SOV_bakatin
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 0,00
+		cost = 0.00
 		prerequisite = {
 			focus = SOV_new_ideas
 		}
@@ -382,7 +382,7 @@ focus_tree = {
 	focus = {
 		id = SOV_give_arm_to_narod
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 70,00
+		cost = 70.00
 		prerequisite = {
 			focus = SOV_social_reform
 		}
@@ -400,7 +400,7 @@ focus_tree = {
 	focus = {
 		id = SOV_govyadina
 		icon = GFX_focus_ARG_capitalize_the_beef_industry
-		cost = 30,00
+		cost = 30.00
 		prerequisite = {
 			focus = SOV_help_agrar
 		}
@@ -418,7 +418,7 @@ focus_tree = {
 	focus = {
 		id = SOV_vozrozhdenye_socialisma
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 70,00
+		cost = 70.00
 		prerequisite = {
 			focus = SOV_rizhikov
 		}
@@ -436,7 +436,7 @@ focus_tree = {
 	focus = {
 		id = SOV_liberalism
 		icon = GFX_goal_generic_war_with_comintern
-		cost = 70,00
+		cost = 70.00
 		prerequisite = {
 			focus = SOV_bakatin
 		}
